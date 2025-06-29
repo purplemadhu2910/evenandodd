@@ -1,0 +1,39 @@
+body{
+    background-color: pink;
+}
+
+.box1{
+    background-color: blue;
+    border: 2px solid black;
+    height: 60vh;
+    width: 110vh;
+    margin: auto;
+    display: grid;
+    margin-top: 20vh;
+}
+
+btn1{
+    width: 40vh;
+    height: 10vh;
+    background-color: red;
+    border: 3px solid black;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+    margin: auto;
+    display: grid;
+    margin-top: 10vh;
+}
+
+.inner_box2{
+    width: 30vh;
+    height: 10vh;
+    background-color: yellow;
+    border: 3px solid black;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+    margin: auto;
+    display: grid;
+    margin-top: 20vh;
+}
